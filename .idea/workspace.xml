@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="2.4 (1).1--spring-mvc-crud-security-final-master:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b7bd325-473a-4ef3-9a9e-f516965be157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.2.3-spring-mvc-crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/FormEncodingSetterFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/SpringSecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/config/handlers/LoginHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/AdminViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/StartPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/controller/UserViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/RoleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/web/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/admin/edituser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/admin/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/admin/usertable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/user/userinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/META-INF/2.2.3-spring-mvc-crud.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/FormEncodingSetterFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/SpringSecurityInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/config/handlers/LoginHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/AdminViewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/RegistrationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/StartPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/controller/UserViewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/RoleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/dao/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/model/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/classes/web/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/aspectjrt-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/attoparser-2.0.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/byte-buddy-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/hibernate-core-5.4.12.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-data-commons-2.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-data-jpa-2.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-jcl-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-security-acl-5.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-security-config-5.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-security-core-5.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-security-taglibs-5.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-security-web-5.3.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-3.0.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/thymeleaf-spring5-3.0.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/unbescape-1.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/admin/edituser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/admin/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/admin/usertable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/edit_user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/new_user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/user/userinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/pages/user_table.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Spring_MVC/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/FormEncodingSetterFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/SpringSecurityInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/config/handlers/LoginHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/controller/AdminViewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/controller/RegistrationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/controller/StartPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/controller/UserViewController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/dao/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/dao/RoleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/dao/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/model/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/service/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/service/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/web/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvc.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jNt1gYyJ8mLnVoeXq7dJsPhIH1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/index" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="2.4 (1).1--spring-mvc-crud-security-final-master:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_2_4_(1)_1--spring-mvc-crud-security-final-master" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="42833" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="2.4 (1).1--spring-mvc-crud-security-final-master:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b7bd325-473a-4ef3-9a9e-f516965be157" name="Default Changelist" comment="" />
+      <created>1603656163580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603656163580</updated>
+      <workItem from="1603656164735" duration="2385000" />
+      <workItem from="1603709592194" duration="7827000" />
+      <workItem from="1603719668745" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="46" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603656645859">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="46" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1603656645859" />
+    <state x="318" y="306" width="776" height="182" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1603717655378">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="318" y="306" width="776" height="182" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/67.27.1299.741@67.27.1299.741" timestamp="1603717655378" />
+    <state width="856" height="198" key="GridCell.Tab.0.bottom" timestamp="1603718362403">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603718362403" />
+    <state width="856" height="198" key="GridCell.Tab.0.center" timestamp="1603718362402">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1603718362402" />
+    <state width="856" height="198" key="GridCell.Tab.0.left" timestamp="1603718362402">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1603718362402" />
+    <state width="856" height="198" key="GridCell.Tab.0.right" timestamp="1603718362402">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1603718362402" />
+    <state width="856" height="198" key="GridCell.Tab.1.bottom" timestamp="1603718362408">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603718362408" />
+    <state width="856" height="198" key="GridCell.Tab.1.center" timestamp="1603718362407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1603718362407" />
+    <state width="856" height="198" key="GridCell.Tab.1.left" timestamp="1603718362407">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1603718362407" />
+    <state width="856" height="198" key="GridCell.Tab.1.right" timestamp="1603718362408">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1603718362408" />
+    <state width="856" height="198" key="GridCell.Tab.2.bottom" timestamp="1603718362406">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.2.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603718362406" />
+    <state width="856" height="198" key="GridCell.Tab.2.center" timestamp="1603718362406">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.2.center/67.27.1299.741@67.27.1299.741" timestamp="1603718362406" />
+    <state width="856" height="198" key="GridCell.Tab.2.left" timestamp="1603718362405">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.2.left/67.27.1299.741@67.27.1299.741" timestamp="1603718362405" />
+    <state width="856" height="198" key="GridCell.Tab.2.right" timestamp="1603718362406">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="856" height="198" key="GridCell.Tab.2.right/67.27.1299.741@67.27.1299.741" timestamp="1603718362406" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1603716841186">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1603716841186" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1603717658005">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1603717658005" />
+  </component>
+</project>
